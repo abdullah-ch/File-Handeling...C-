@@ -1,0 +1,8 @@
+The number of alphabets are  17 (excluding special characters and spaces) 
+The number of UPPER CASE LETTERs are  11
+The number of LOWER CASE LETTERs are 6
+The number of white spaces are  2
+
+The number of word in line no : 1 is 2
+The number of word in line no : 2 is 2The number of word in line no : 3 is 1
+The total number of lines are 3
